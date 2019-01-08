@@ -1,0 +1,10 @@
+#全局配置文件,编写格式注意冒号后空格
+login:
+  url: "http://xxx:8081/web/customer/index.html"
+  username: "XXX"
+  password: "xxx"
+mail:
+  sender: "XXX@163.com"
+  passwd: "XXX"
+  receiver: ["XXX@qq.com"] #发送人邮箱list,可以写多人如["xx@qq.com", "xx3@qq.com"]
+  smtp_server: 'smtp.163.com'
