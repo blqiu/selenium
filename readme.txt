@@ -1,5 +1,4 @@
-#####python3+selenium+unittest web自动化测试框架##########
-学习可参考博客：https://www.cnblogs.com/zidonghua/p/7429099.html
+﻿#####python3+selenium+unittest web自动化测试框架##########
 目录结构如下
 --config                #配置文件目录
     ---config.yml       #可以将一些配置放到此处如url,发收邮件人等
